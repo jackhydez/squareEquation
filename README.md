@@ -1,4 +1,4 @@
-#sqrt program
+#sqrtProgram
 
 compilation:
 ```
