@@ -1,4 +1,4 @@
-#sqrtProgram
+# program for square equation
 
 compilation:
 ```
